@@ -5,7 +5,7 @@ Due to the lack of open-source vehicle object segmentation dataset, We relabeled
 
 
 
-dataset address：https://pan.baidu.com/s/1sRfODpVRw70tMcfJWQWAyg     code：ah3X
+dataset address：(https://pan.baidu.com/s/1dqRII6M_rEIfSSsKsxTYtA)     code：2022
 
 
 
